@@ -73,4 +73,5 @@ a{
 
 /* // XX-Large devices (larger desktops, 1400px and up) */
 @media (min-width: 1400px){ 
-    grid-template-columns: 1fr 1fr;} */
+    grid-template-columns: 1fr 1fr;
+}
